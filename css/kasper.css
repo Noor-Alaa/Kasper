@@ -97,6 +97,7 @@ ul{
 
 .special-heading h2:hover::after{
     border-radius: var(--main-color) ;
+    border-color: var(--main-color);
 }
 
 .special-heading p {
