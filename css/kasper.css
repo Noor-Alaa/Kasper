@@ -1084,6 +1084,8 @@ header nav .form i:hover{
     padding: 20px 20px 20px 60px;
     width: calc(100% + 531px);
     caret-color: var(--main-color);
+    color: white;
+    font-weight: bold;
 }
 
 .subscribe form input[type="submit"]{
